@@ -1,0 +1,207 @@
+Netlist
+
+Exported from Stereo-Mixer.sch at 03/04/15 01:37
+
+EAGLE Version 7.2.0 Copyright (c) 1988-2014 CadSoft
+
+Net      Part     Pad      Pin        Sheet
+
+GND      C17      -        -          1
+         C18      2        2          1
+         DC1      1        1          1
+         DC1      2        2          1
+         IC1      11       V-         1
+         J1       SLEEVE   EARTH      1
+         J2       SLEEVE   EARTH      1
+         J3       SLEEVE   EARTH      1
+         J4       SLEEVE   EARTH      1
+         J5       SLEEVE   EARTH      1
+         LED1     K        C          1
+         R20      1        1          1
+         RV1      1-A      A-1        1
+         RV1      1-B      B-1        1
+         RV2      1-A      A-1        1
+         RV2      1-B      B-1        1
+         RV3      1-A      A-1        1
+         RV3      1-B      B-1        1
+         RV4      1-A      A-1        1
+         RV4      1-B      B-1        1
+         RV5      1-A      A-1        1
+         RV5      1-B      B-1        1
+         SW1      3        3          1
+
+N$1      C1       2        2          1
+         J1       RING     RING       1
+         J1       RING_DETECT RING-NORM  1
+         J1       TIP_DETECT TIP-NORM   1
+
+N$2      C3       2        2          1
+         J2       RING     RING       1
+         J2       RING_DETECT RING-NORM  1
+         J2       TIP_DETECT TIP-NORM   1
+
+N$3      C1       1        1          1
+         RV1      3-A      A-3        1
+
+N$4      C2       1        1          1
+         RV1      3-B      B-3        1
+
+N$5      R1       1        1          1
+         RV1      2-A      A-2        1
+
+N$6      R2       1        1          1
+         RV1      2-B      B-2        1
+
+N$7      C3       1        1          1
+         RV2      3-A      A-3        1
+
+N$8      C2       2        2          1
+         J1       TIP      TIP        1
+
+N$9      C4       1        1          1
+         RV2      3-B      B-3        1
+
+N$10     R3       1        1          1
+         RV2      2-A      A-2        1
+
+N$11     R4       1        1          1
+         RV2      2-B      B-2        1
+
+N$12     C4       2        2          1
+         J2       TIP      TIP        1
+
+N$13     C5       2        2          1
+         J3       RING     RING       1
+         J3       RING_DETECT RING-NORM  1
+         J3       TIP_DETECT TIP-NORM   1
+
+N$14     C5       1        1          1
+         RV3      3-A      A-3        1
+
+N$15     C6       1        1          1
+         RV3      3-B      B-3        1
+
+N$16     R5       1        1          1
+         RV3      2-A      A-2        1
+
+N$17     R6       1        1          1
+         RV3      2-B      B-2        1
+
+N$18     C6       2        2          1
+         J3       TIP      TIP        1
+
+N$19     C7       2        2          1
+         J4       RING     RING       1
+         J4       RING_DETECT RING-NORM  1
+         J4       TIP_DETECT TIP-NORM   1
+
+N$20     C7       1        1          1
+         RV4      3-A      A-3        1
+
+N$21     C8       1        1          1
+         RV4      3-B      B-3        1
+
+N$22     R7       1        1          1
+         RV4      2-A      A-2        1
+
+N$23     R8       1        1          1
+         RV4      2-B      B-2        1
+
+N$24     C8       2        2          1
+         J4       TIP      TIP        1
+
+N$29     DC1      3        3          1
+         SW1      1        1          1
+
+N$30     R15      1        1          1
+         SW1      2        2          1
+
+N$43     C9       2        2          1
+         R1       2        2          1
+         R3       2        2          1
+         R5       2        2          1
+         R7       2        2          1
+
+N$44     C10      2        2          1
+         R2       2        2          1
+         R4       2        2          1
+         R6       2        2          1
+         R8       2        2          1
+
+N$45     C11      2        2          1
+         C9       1        1          1
+         IC1      2        -IN        1
+         R9       1        1          1
+
+N$46     C11      1        1          1
+         IC1      1        OUT        1
+         R11      1        1          1
+         R9       2        2          1
+
+N$47     C13      2        2          1
+         IC1      9        -IN        1
+         R11      2        2          1
+         R13      1        1          1
+
+N$48     C13      1        1          1
+         C15      2        2          1
+         IC1      8        OUT        1
+         R13      2        2          1
+
+N$49     C10      1        1          1
+         C12      2        2          1
+         IC1      6        -IN        1
+         R10      1        1          1
+
+N$50     C12      1        1          1
+         IC1      7        OUT        1
+         R10      2        2          1
+         R12      1        1          1
+
+N$51     C14      2        2          1
+         IC1      13       -IN        1
+         R12      2        2          1
+         R14      1        1          1
+
+N$52     C14      1        1          1
+         C16      2        2          1
+         IC1      14       OUT        1
+         R14      2        2          1
+
+N$53     R17      2        2          1
+         RV5      3-B      B-3        1
+
+N$54     R16      2        2          1
+         RV5      3-A      A-3        1
+
+N$55     C15      1        1          1
+         R16      1        1          1
+
+N$56     C16      1        1          1
+         R17      1        1          1
+
+N$57     J5       RING     RING       1
+         J5       RING_DETECT RING-NORM  1
+         RV5      2-A      A-2        1
+
+N$58     J5       TIP      TIP        1
+         J5       TIP_DETECT TIP-NORM   1
+         RV5      2-B      B-2        1
+
+N$60     C17      +        +          1
+         C18      1        1          1
+         IC1      4        V+         1
+         R15      2        2          1
+         R18      1        1          1
+         R19      1        1          1
+
+N$61     LED1     A        A          1
+         R19      2        2          1
+
+VPP      IC1      10       +IN        1
+         IC1      12       +IN        1
+         IC1      3        +IN        1
+         IC1      5        +IN        1
+         R18      2        2          1
+         R20      2        2          1
+

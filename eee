@@ -1,0 +1,92 @@
+Directory
+
+Exported from sonic-detours.lbr at 03/04/15 01:41
+
+EAGLE Version 7.2.0 Copyright (c) 1988-2014 CadSoft
+
+Device     Prefix  Value Package  Contents
+
+A4L-LOC    FRAME   on    * none * 1*A4L-LOC 
+C25        C       on    C-25     1*C       
+C50-25     C       on    C-50-25  1*C       
+C50-30     C       on    C-50-30  1*C       
+C50-35     C       on    C-50-35  1*C       
+C50-45     C       on    C-50-45  1*C       
+C50-50     C       on    C-50-50  1*C       
+C-POL1.8-04 C       on    C-POL-1.8-04 1*C-POL   
+C-POL2.5-05 C       on    C-POL-2.5-05 1*C-POL   
+C-POL2.5-07 C       on    C-POL-2.5-07 1*C-POL   
+DD-50      D       on    D-50     1*D       
+DD-75      D       on    D-75     1*D       
+DC-JACK    DC      on    DC-JACK  1*DC-JACK 
+DIL16      IC      on    DIL16    1*DIL16   
+LED3MM     LED     off   LED3MM   1*LED     
+LM4558D    IC      off   SO08     2*OPAMP    1*PWR+-   
+LM4558N    IC      off   DIL08    2*OPAMP    1*PWR+-   
+MN3102     IC      off   DIL08    1*MN3102  
+MN3207     IC      off   DIL08    1*MN3207  
+NPNTO92-EBC Q       on    TO92-EBC 1*NPN     
+POT9MM-SNAP RV      on    POT-9MM-SNAP 1*POT     
+POTTRIM-SIDE RV      on    POT-TRIM-SIDE 1*POT     
+POT-DUALBOURNS-PTA4544 RV      on    POT-DUAL-PTA4544 1*POT-DUAL
+R          R       on    R-7.62MM 1*R       
+SA751      IC      off   DIL16    1*SA571-1  1*SA571-2 
+STEREO_JACK3.5MM J       on    STEREO_JACK_3.5MM 1*AUDIO-JACK5-TRS-NORMALED
+SWITCH-SPDTANGLE SW      off   SWITCH-SPDT-ANGLE 1*SWITCH-SPDT
+TL062D     IC      off   SO08     2*OPAMP    1*PWR+-   
+TL062P     IC      off   DIL08    2*OPAMP    1*PWR+-   
+TL072D     IC      off   SO08     2*OPAMP    1*PWR+-   
+TL072P     IC      off   DIL08    2*OPAMP    1*PWR+-   
+TL074D     IC      off   SO14     4*OPAMP    1*PWR+-   
+TL074P     IC      off   DIL14    4*OPAMP    1*PWR+-   
+
+Packages:
+
+C-25
+C-50-25
+C-50-30
+C-50-35
+C-50-45
+C-50-50
+C-POL-1.8-04
+C-POL-2.5-05
+C-POL-2.5-07
+D-50
+D-75
+DC-JACK
+DIL08
+DIL14
+DIL16
+LED3MM
+POT-9MM-SNAP
+POT-DUAL-PTA4544
+POT-TRIM-SIDE
+R-7.62MM
+SO08
+SO14
+STEREO_JACK_3.5MM
+SWITCH-SPDT-ANGLE
+TO92-EBC
+
+Symbols:
+
+A4L-LOC
+AUDIO-JACK5-TRS-NORMALED
+C
+C-POL
+D
+DC-JACK
+DIL16
+LED
+MN3102
+MN3207
+NPN
+OPAMP
+POT
+POT-DUAL
+PWR+-
+R
+SA571-1
+SA571-2
+SWITCH-SPDT
+
